@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="app_name">N-Joy</string>
+
+    <!-- About page -->
+    <string name="about_text">A pixel-art game about the life of a prehistoric man and the split of his tribe.</string>
+    <string name="about_open_source">The code used to create this example is open-source:</string>
+    <string name="about_link">mailto:frijters.nick@gmail.com</string>
+
+    <!-- Menu -->
+    <string name="about_label">About</string>
+    <string name="exit_label">Exit</string>
+
+    <!-- Shortcuts -->
+    <string name="about_shortcut">a</string>
+    <string name="exit_shortcut">x</string>
+
+</resources>
